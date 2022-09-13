@@ -1,0 +1,2 @@
+This is a gentle introduction to Markov chains for text generation. We are going to train a model using the Markovify library on three of William Shakespeares most famous Tragedies and see if what we generate is legible and coherent. I am aware that these two terms are somewhat nebulous but I feel that most people will understand my intention when using them, especially when they see the variation in text that is generated.
+
