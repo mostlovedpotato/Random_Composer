@@ -1,2 +1,5 @@
-This is a gentle introduction to Markov chains for text generation. We are going to train a model using the Markovify library on three of William Shakespeares most famous Tragedies and see if what we generate is legible and coherent. I am aware that these two terms are somewhat nebulous but I feel that most people will understand my intention when using them, especially when they see the variation in text that is generated.
+Some William Shakespeare quotes are known for their beauty, some Shakespeare quotes for their everyday truths and some for their wisdom.
 
+As the most quoted English writer, Shakespeare created more than his fair share of famous quotes.  We often talk about Shakespeare’s quotes as things the wise Bard is saying to us, but we should remember that some of his wisest words are spoken by his biggest fools. For example, both ‘neither a borrower nor a lender be,’ and ‘to thine own self be true’ are from the foolish, garrulous and quite disreputable Polonius in Hamlet.
+
+Whilst it’s hard to definitively say which are the most famous Shakespeare quotes, we’ve examined polls published around the world, combined these with feedback from website users, and added our own take on Shakespeare’s words, and can now offer what we believe to be the 50 most famous Shakespeare quotes of all time (in no particular order!).
